@@ -24,7 +24,7 @@
 
 1. [Tools/Library](http://bit.ly/2tvgSYm) 📥
 2. [Visual Studio Code](https://code.visualstudio.com) 📥
-3. [Modul Praktikum](https://github.com/yysofiyan/PABWEB-B/blob/master/Modul%20Praktikum%20Pengembangan%20Aplikasi%20Berbasis%20Web%20(1)%20(1)%20(2).pdf) 📥
+3. [Modul Praktikum](https://github.com/yysofiyan/PABWEB-E/blob/master/Modul%20Praktikum%20Pengembangan%20Aplikasi%20Berbasis%20Web%20(1)%20(1)%20(2).pdf) 📥
 
 ## Referensi 📖
 
@@ -81,7 +81,7 @@ Contributions of any kind are welcome!
 ----
 
 <p align="center">
-<a href="#"><img src="https://img.shields.io/github/forks/yysofiyan/PABWEB-B.svg?style=plastic" alt="Fork"></a>
-<a href="#"><img src="https://img.shields.io/github/stars/yysofiyan/PABWEB-B.svg?style=plastic" alt="Stars"></a>
+<a href="#"><img src="https://img.shields.io/github/forks/yysofiyan/PABWEB-E.svg?style=plastic" alt="Fork"></a>
+<a href="#"><img src="https://img.shields.io/github/stars/yysofiyan/PABWEB-E.svg?style=plastic" alt="Stars"></a>
 <a href="#"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
