@@ -1,6 +1,6 @@
-Nama : Manggar Sri Sasongko Jati
-NIM : A2.1800154
-Kelas : TI - IV E
+Nama : Manggar Sri Sasongko Jati <br>
+NIM : A2.1800154 <br>
+Kelas : TI - IV E <br>
 Link : <a href="https://aplikasibiodatasiswa.000webhostapp.com/" target="_blank">klik disini</a>
 
 <tr>
