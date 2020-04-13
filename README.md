@@ -56,7 +56,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/34052001?s=460&v=4" width="100px;" alt=""/><br /><sub><b>Yanyan Sofiyan, M.Kom</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
-     <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61769361?s=460&u=63a3756b2880bc06bafb56f49f64f9427085c7ee&v=4" width="100px;" alt=""/><br /><sub><b>Manggar Sri Sasongko Jati</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+     <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61769361?s=460&u=63a3756b2880bc06bafb56f49f64f9427085c7ee&v=4" width="100px;" alt=""/><br /><sub><b>Manggar Sri Sasongko Jati<br>🥇</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
 </table>
 
 <!-- markdownlint-enable -->
