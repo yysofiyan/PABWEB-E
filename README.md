@@ -1,4 +1,4 @@
-# Repositori Praktikum Pengembangan Aplikasi Berbasis Web
+﻿# Repositori Praktikum Pengembangan Aplikasi Berbasis Web
 #### Group : E //KR , Hari & Jam: Sabtu - 16:40 s.d 20:00, ruang:R3
 
 ## Alur Pengumpulan Tugas ke Repositori Ini
@@ -51,7 +51,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
      <!-- Baris 2 Max 7 Akun -->
-     <td align="center"><a href="#"><img src="https://c7.uihere.com/files/706/515/789/computer-icons-facepalm-clip-art-share-icon-portable-network-graphics-vector-students.jpg" width="100px;" alt=""/><br /><sub><b>ISI NAMA ANDA</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+     <td align="center"><a href="#"><img src="https://c7.uihere.com/files/706/515/789/computer-icons-facepalm-clip-art-share-icon-portable-network-graphics-vector-students.jpg" width="100px;" alt=""/><br /><sub><b>Muhammad Rizki Iryanto</b></sub></a><br /><a href="#" title="https://github.com/rizkiiryanto96/PABWEB-E.git">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
 
   </tr>
   <tr>
